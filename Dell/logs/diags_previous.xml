@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <SupportAssistPrebootDiagnosticLog>
+    <Schema>1.0.0</Schema>
+    <LogNumber>53</LogNumber>
+    <LogTimeStamp>06/06/2020 10:58:03</LogTimeStamp>
+    <ePSA_Data>
+      <Result>Pass</Result>
+      <ReturnCode>BOOT_HOST_OS</ReturnCode>
+      <DevicesTested>Fan</DevicesTested>
+      <ePSAFullVersion>4306.26</ePSAFullVersion>
+      <ePSAInvocationCount>1</ePSAInvocationCount>
+    </ePSA_Data>
+    <BIOS_Data>
+      <ErrorCategory>PRV_FAN_FAIL</ErrorCategory>
+      <ErrorMessage><![CDATA[Fan malfunction.
+]]></ErrorMessage>
+      <FRU_String><![CDATA[Previous Fan]]></FRU_String>
+      <SOS_Available>FALSE</SOS_Available>
+      <TimeOutSeconds>0</TimeOutSeconds>
+    </BIOS_Data>
+  </SupportAssistPrebootDiagnosticLog>
